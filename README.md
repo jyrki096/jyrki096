@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @jyrki096
-- 👀 I’m interested in testing, programming, piano, adventure
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me "jyrki096@gmail.com"
+<h1 align="center">Hi there, I'm <a href="https://daniilshat.ru/" target="_blank">Yuriy</a> 
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">I'm pre-sale engeneer. I'm currently learning C#. I want to be developer</h3>
+[!Yuriy's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyrki096)](https://github.com/jyrki096/github-readme-stats)
 
-<!---
-jyrki096/jyrki096 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

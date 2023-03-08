@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jyrki096
 - 👀 I’m interested in testing, programming, piano, adventure
-- 🌱 I’m currently learning Python, qa-automation by Python and Selenium IDE
+- 🌱 I’m currently learning C#
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me "jyrki096@gmail.com"
 
